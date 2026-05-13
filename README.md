@@ -45,7 +45,7 @@ Service-One is a web platform for checking whether a home appliance repair or in
 | Backend | FastAPI (Python) |
 | AI / Agents | Google ADK, Vertex AI (Gemini Flash, Gemini Flash-Lite) |
 | Auth | Google OAuth 2.0 |
-| Database | PostgreSQL / Supabase |
+| Database | PostgreSQL / Cloud-SQL |
 | File Storage | Google Cloud Storage |
 | Deployment | Cloud Run (backend), Firebase Hosting (frontend) |
 | Cache | Redis |
